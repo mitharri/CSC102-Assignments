@@ -1,0 +1,22 @@
+/*
+Mitchell Harris
+6-5-22
+Mission Control Operator Login
+*/
+
+/*my cool background design--im a teacher*/
+body {
+    background-image: url("spacebackground.jpg");
+	background-color: #cccccc;
+}
+
+
+/*this is for the next assignment im working on*/
+/*
+table, tr, th {
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	font-style: normal;
+}
+*/
